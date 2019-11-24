@@ -3,3 +3,4 @@ test/
 test_mini/
 train/
 train_mini/
+node_modules/
