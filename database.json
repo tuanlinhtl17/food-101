@@ -1,0 +1,62 @@
+{
+  "apple pie": {
+    "calories": 237,
+    "protein": 1.9,
+    "cacbohydrat": 34,
+    "fat": 11
+  },
+  "cup cakes": {
+    "calories": 305,
+    "protein": 4.3,
+    "cacbohydrat": 67,
+    "fat": 3.7
+  },
+  "donuts": {
+    "calories": 452,
+    "protein": 4.9,
+    "cacbohydrat": 51,
+    "fat": 25
+  },
+  "french fries": {
+    "calories": 311,
+    "protein": 3.4,
+    "cacbohydrat": 41,
+    "fat": 15
+  },
+  "fried rice": {
+    "calories": 163,
+    "protein": 4.7,
+    "cacbohydrat": 31,
+    "fat": 2.3
+  },
+  "ice cream": {
+    "calories": 207,
+    "protein": 3.5,
+    "cacbohydrat": 24,
+    "fat": 11
+  },
+  "pizza": {
+    "calories": 266,
+    "protein": 11,
+    "cacbohydrat": 33,
+    "fat": 10
+  },
+  "pho": {
+    "calories": 450,
+    "protein": 30,
+    "cacbohydrat": 34,
+    "fat": 11
+  },
+  "steak": {
+    "calories": 270,
+    "protein": 25,
+    "cacbohydrat": 0,
+    "fat": 19
+  },
+  "spring rolls": {
+    "calories": 153,
+    "protein": 16,
+    "cacbohydrat": 4.3,
+    "fat": 8
+  }
+}

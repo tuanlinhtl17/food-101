@@ -3,11 +3,7 @@ import numpy as np
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model
 import tensorflow as tf
-"""
-Created on Thu Sep 26 08:03:13 2019
 
-@author: westl
-"""
 # get image from Nodejs
 import sys
 # Takes first name and last name via command
